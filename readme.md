@@ -5,7 +5,7 @@
 ![ImageThumbnail](./thumbnail.png)
 ***
 ### Project details
-This project is a landing page for individual developer. It is a purely responsive design , created for Desktop , mobile , and tablet usage. Only UI is developed for this project for this project, functionality is not .
+This project is a landing page for individual developer. It is a purely responsive design , created for Desktop , tablet and mobile usage only. Only UI is developed for this project for this project, functionality is not .
 
 
 ***
