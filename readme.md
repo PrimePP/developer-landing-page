@@ -6,11 +6,14 @@
 ***
 ### Project details
 This project is a landing page for individual developer. It is a purely responsive design , created for Desktop , tablet and mobile usage only. Only UI is developed for this project for this project, functionality is not .
-
+Screen sizes
+- Mobile (424px)
+- Tablet (768px)
+- Laptop (Full Width)
 
 ***
 ### Other Important Details
-- >Time taken for completion : 6 hours
+- >Time taken for completion : 8 hours
 - Technologies Used
   - HTML
   - CSS
